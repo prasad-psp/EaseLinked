@@ -1,10 +1,14 @@
-🚀 Welcome to EaseLinked - All links in one place 🚀
+### Welcome to EaseLinked - All links in one place
 
+&nbsp;
+&nbsp;
 
 🔥 Introduction 🔥
 
 Create your profile and share the link with anyone. No need to share individual account links, simply create your profile using our app and share only one link. Easily add social or other accounts to your profile.
 
+&nbsp;
+&nbsp;
 
 🔥 Key Features 🔥
 
@@ -22,6 +26,8 @@ When you create your profile using our app, we generate a short profile link for
 - Main profile vs Clone profile
 The main profile can't be deleted, but you can customize its content or change account privacy at any time. On the other hand, the clone profile can be deleted anytime but can't change its content or its account privacy. In the clone profile, all accounts are always visible to other users.
 
+&nbsp;
+&nbsp;
 
 🎉 Get Started Today! 🎉
 
@@ -32,6 +38,10 @@ Need help or have suggestions? Reach out to our friendly support team at easelin
 🌐 https://easelinked.com/
 📧 easelinked.supp0rt@gmail.com
 
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 Thanks,
 Your EaseLinked team
